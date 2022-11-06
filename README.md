@@ -3,7 +3,7 @@ SAP1 Computer Verilog HDL Code
 
 I am Rasheed Kibria.
 I am a graduate from Bangladesh University of Engineering and Technology (BUET).
-I have a great fascination in digital VLSI design and in FPGA prototyping.
+I have a great fascination in digital VLSI design and FPGA prototyping.
 
 I have done this project to implement the RTL version of the Simple-As-Possible-1 (SAP1) Computer Architecture.
 I have verified the funtionailty of my design in both Testbench simulation and in FPGA hardware.
